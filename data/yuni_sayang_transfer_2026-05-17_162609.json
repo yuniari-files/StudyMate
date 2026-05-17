@@ -1,0 +1,32 @@
+{
+  "id": "c_1778944792890",
+  "slug": "yuni_sayang",
+  "name": "YUNI SAYANG",
+  "code": "CF4534",
+  "emoji": "🎨",
+  "color": "linear-gradient(135deg,#ef4444,#f87171)",
+  "createdAt": "2026-05-16T15:19:52.890Z",
+  "updatedAt": "2026-05-16T15:53:57.154Z",
+  "materials": [
+    {
+      "id": "m_1778944818718",
+      "title": "DSAF",
+      "notes": "FASFAS",
+      "tags": [
+        "penting"
+      ],
+      "date": "2026-05-16T15:20:18.718Z",
+      "filename": "1778944818716_dasdas.png",
+      "imgUrl": "/uploads/1778944818716_dasdas.png"
+    },
+    {
+      "id": "m_1778946837154",
+      "title": "tes tes",
+      "notes": "",
+      "tags": [],
+      "date": "2026-05-16T15:53:57.154Z",
+      "filename": null,
+      "imgUrl": null
+    }
+  ]
+}

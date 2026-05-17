@@ -1,0 +1,42 @@
+[
+  {
+    "id": "c_1778944217933",
+    "slug": "dasf",
+    "name": "dasf",
+    "code": "fsafas",
+    "emoji": "🧮",
+    "color": "linear-gradient(135deg,#6366f1,#818cf8)",
+    "createdAt": "2026-05-16T15:10:17.933Z",
+    "updatedAt": "2026-05-16T15:10:17.933Z"
+  },
+  {
+    "id": "c_1778944792890",
+    "slug": "yuni_sayang",
+    "name": "YUNI SAYANG",
+    "code": "CF4534",
+    "emoji": "🎨",
+    "color": "linear-gradient(135deg,#ef4444,#f87171)",
+    "createdAt": "2026-05-16T15:19:52.890Z",
+    "updatedAt": "2026-05-16T15:53:57.154Z"
+  },
+  {
+    "id": "c_1778945646378",
+    "slug": "wkwk",
+    "name": "wkwk",
+    "code": "",
+    "emoji": "📚",
+    "color": "linear-gradient(135deg,#ff5c35,#ff8c6b)",
+    "createdAt": "2026-05-16T15:34:06.378Z",
+    "updatedAt": "2026-05-16T15:40:08.230Z"
+  },
+  {
+    "id": "c_1778949906018",
+    "slug": "yuni_comel",
+    "name": "YUNI COMEL",
+    "code": "",
+    "emoji": "🧠",
+    "color": "linear-gradient(135deg,#ec4899,#f472b6)",
+    "createdAt": "2026-05-16T16:45:06.018Z",
+    "updatedAt": "2026-05-16T17:33:42.013Z"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "id": "c_1778945646378",
+  "slug": "wkwk",
+  "name": "wkwk",
+  "code": "",
+  "emoji": "📚",
+  "color": "linear-gradient(135deg,#ff5c35,#ff8c6b)",
+  "createdAt": "2026-05-16T15:34:06.378Z",
+  "updatedAt": "2026-05-16T15:40:08.230Z",
+  "materials": [
+    {
+      "id": "m_1778946008230",
+      "title": "WKWKWK",
+      "notes": "WKWKW",
+      "tags": [
+        "penting"
+      ],
+      "date": "2026-05-16T15:40:08.230Z",
+      "filename": null,
+      "imgUrl": null
+    }
+  ]
+}
