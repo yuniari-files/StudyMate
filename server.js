@@ -11,7 +11,7 @@ const multer     = require('multer');
 const cors       = require('cors');
 
 const app  = express();
-const PORT = 6767;
+const PORT = 3000;
 
 const DATA_DIR    = path.join(__dirname, 'data');
 const UPLOAD_DIR  = path.join(__dirname, 'uploads');
