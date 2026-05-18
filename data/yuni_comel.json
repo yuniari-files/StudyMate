@@ -1,0 +1,83 @@
+{
+  "id": "c_1778949906018",
+  "slug": "yuni_comel",
+  "name": "YUNI COMEL",
+  "code": "",
+  "emoji": "🧠",
+  "color": "linear-gradient(135deg,#ec4899,#f472b6)",
+  "createdAt": "2026-05-16T16:45:06.018Z",
+  "updatedAt": "2026-05-17T19:14:10.215Z",
+  "materials": [
+    {
+      "id": "m_1778949935638",
+      "title": "BLA BLA BLE BLE BE",
+      "notes": "DASGFAGE",
+      "tags": [
+        "penting"
+      ],
+      "date": "2026-05-16T16:45:35.638Z",
+      "filename": "1778949935634_1f8.png",
+      "imgUrl": "/uploads/1778949935634_1f8.png"
+    },
+    {
+      "id": "m_1778952706431",
+      "title": "TUGAS BIKIN WEB",
+      "notes": "<p>LOVE dfdsfsdfsd halo<strong class=\"ql-size-large\"> sayanag</strong></p>",
+      "tags": [
+        "tugas"
+      ],
+      "date": "2026-05-16T17:31:46.431Z",
+      "filename": null,
+      "imgUrl": null
+    },
+    {
+      "id": "m_1778952761241",
+      "title": "FUCK LGBT",
+      "notes": "FDGDS",
+      "tags": [
+        "uas"
+      ],
+      "date": "2026-05-16T17:32:41.241Z",
+      "filename": "1778952761240_1200px_LGBT_Rainbow_Flag.png",
+      "imgUrl": "/uploads/1778952761240_1200px_LGBT_Rainbow_Flag.png"
+    },
+    {
+      "id": "m_1778952822013",
+      "title": "TRRDFG",
+      "notes": "FDGDF",
+      "tags": [
+        "uts"
+      ],
+      "date": "2026-05-16T17:33:42.013Z",
+      "filename": "1778952822011_WhatsApp_Image_2025_11_11_at_3_21_52_PM.jpeg",
+      "imgUrl": "/uploads/1778952822011_WhatsApp_Image_2025_11_11_at_3_21_52_PM.jpeg"
+    },
+    {
+      "id": "m_1779037182656",
+      "title": "tes",
+      "notes": "<p><strong class=\"ql-size-large\"><em>tes</em></strong></p>",
+      "tags": [],
+      "date": "2026-05-17T16:59:42.656Z",
+      "filename": null,
+      "imgUrl": null
+    },
+    {
+      "id": "m_1779037330829",
+      "title": "tes",
+      "notes": "<p><span class=\"ql-size-huge\">TES</span></p>",
+      "tags": [],
+      "date": "2026-05-17T17:02:10.829Z",
+      "filename": null,
+      "imgUrl": null
+    },
+    {
+      "id": "m_1779045238230",
+      "title": "tes lagi",
+      "notes": "<p>untuk yang kesekian kalinya... akhirnya bisa</p><p><br></p>",
+      "tags": [],
+      "date": "2026-05-17T19:13:58.230Z",
+      "filename": null,
+      "imgUrl": null
+    }
+  ]
+}

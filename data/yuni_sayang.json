@@ -1,0 +1,61 @@
+{
+  "id": "c_1778944792890",
+  "slug": "yuni_sayang",
+  "name": "YUNI SAYANG",
+  "code": "CF4534",
+  "emoji": "🎨",
+  "color": "linear-gradient(135deg,#ef4444,#f87171)",
+  "createdAt": "2026-05-16T15:19:52.890Z",
+  "updatedAt": "2026-05-17T19:02:34.515Z",
+  "materials": [
+    {
+      "id": "m_1778944818718",
+      "title": "DSAF",
+      "notes": "<p>FASFASlkhgytrdsdszfxgcvbn.</p><p><br></p><p>tes banget</p>",
+      "tags": [
+        "penting"
+      ],
+      "date": "2026-05-16T15:20:18.718Z",
+      "filename": "1778944818716_dasdas.png",
+      "imgUrl": "/uploads/1778944818716_dasdas.png"
+    },
+    {
+      "id": "m_1778946837154",
+      "title": "tes tes",
+      "notes": "",
+      "tags": [],
+      "date": "2026-05-16T15:53:57.154Z",
+      "filename": null,
+      "imgUrl": null
+    },
+    {
+      "id": "m_1778999199222",
+      "title": "DATABASE",
+      "notes": "<p>1. Fondasi dan Konsep Dasar (Introduction &amp; Data Modeling)Bagian awal ini berfokus pada mengapa basis data diperlukan untuk mengganti<strong>kan sistem pengarsipan tradisional berbasis berkas (file-based system).Komponen Sistem Basis Data: Memahami interaksi antara perangkat keras, perangkat lunak (Database Ma</strong>nagement System atau DBMS), data, pengguna (users), dan prosedur.Arsitektur Tiga Skema (Three-Schema Architecture): Pemisahan antara level internal (fisik), konseptual (logis), dan eksternal (view pengguna) untuk mencapai independensi data.Entity-Relationship Diagram (ERD): Pemodelan data konseptual sebelum basis data dibuat. Materi ini mempelajari tentang Entity (Entitas), Attribute (Atribut), Relationship (Hubungan), serta Cardinality Constraint (One-to-One, One-to-Many, Many-to-Many).2. Model Data Relasional (Relational Data Model)Ini adalah fondasi dari sebagian besar DBMS yang digunakan di industri saat ini.Struktur Model Relasional: Memahami konsep tabel (relasi), baris (tuple), dan kolom (attribute atau domain).Integritas Data (Integrity Constraints):Domain Constraints (batasan nilai).Entity Integrity (aturan Primary Key tidak boleh null).Referential Integrity (aturan Foreign Key untuk menjaga relasi antar tabel).Aljabar Relasional (Relational Algebra): Operasi matematis teoritis yang mendasari query basis data, seperti Select ($\\sigma$), Project ($\\pi$), Join ($\\bowtie$), dan Union ($\\cup$).3. Desain Basis Data dan Normalisasi (Database Design &amp; Normalization)Proses merancang struktur tabel yang efisien untuk menghindari redundansi (penumpukan data yang tidak perlu) dan anomali (kesalahan saat manipulasi data).Anomali Data: Memahami Insertion, Deletion, dan Update Anomaly.Functional Dependency (Ketergantungan Fungsional): Dasar teoritis untuk menentukan bagaimana suatu atribut bergantung pada atribut lain.Bentuk Normal (Normal Forms): Proses bertahap untuk mengoptimalkan tabel:First Normal Form (1NF): Menghilangkan grup atribut yang berulang.Second Normal Form (2NF): Menghilangkan ketergantungan parsial.Third Normal Form (3NF): Menghilangkan ketergantungan transitif.Boyce-Codd Normal Form (BCNF): Bentuk normal yang lebih ketat dari 3NF.4. Bahasa Query Struktur (Structured Query Language - SQL)Implementasi praktis menggunakan bahasa standar untuk berkomunikasi dengan DBMS relasional.Data Definition Language (DDL): Query untuk membangun struktur, seperti CREATE, ALTER, dan DROP.Data Manipulation Language (DML): Query untuk memanipulasi data, seperti SELECT, INSERT, UPDATE, dan DELETE.Query Tingkat Lanjut (Advanced SQL):Fungsi Agregasi (SUM, AVG, COUNT).Pengelompokan data (GROUP BY, HAVING).Penggabungan tabel (Inner Join, Left Join, Right Join, Full Join).Subquery (query di dalam query) dan Nested Queries.Data Control Language (DCL): Pengaturan hak akses keamanan data menggunakan GRANT dan REVOKE.5. Manajemen Transaksi dan Konkurensi (Transaction &amp; Concurrency Control)Bagian ini mempelajari bagaimana DBMS memastikan data tetap konsisten dan aman, terutama ketika diakses oleh banyak pengguna secara bersamaan.Sifat ACID Transaksi:Atomicity: Transaksi harus selesai sepenuhnya atau tidak sama sekali.Consistency: Transaksi membawa database dari satu kondisi valid ke kondisi valid lainnya.Isolation: Transaksi yang berjalan bersamaan tidak boleh saling mengganggu.Durability: Hasil transaksi yang sukses bersifat permanen.Concurrency Control: Mekanisme penguncian (Locking Protocols seperti Two-Phase Locking) dan deteksi Deadlock untuk mencegah konflik data saat akses simultan.Database Recovery: Teknik memulihkan data setelah terjadi kegagalan sistem (crash) menggunakan log file atau checkpoint.6. Penyimpanan Fisik dan Optimasi (Storage, Indexing, &amp; Query Tuning)Bagian tingkat lanjut yang membahas bagaimana data disimpan di dalam disk dan bagaimana mempercepat pencarian data.Struktur Penyimpanan File: Bagaimana data diorganisasikan dalam blok memori.Indexing (Pengindeksan): Struktur data tambahan (seperti B-Tree atau Hash Index) yang digunakan untuk mempercepat pencarian baris data tertentu tanpa harus memindai seluruh tabel.Query Optimization: Bagaimana DBMS menganalisis query yang ditulis pengguna dan memilih jalur eksekusi (Execution Plan) yang paling efisien dari segi waktu dan memori.7. Perkembangan Basis Data Modern (Modern Database Trends)Materi penutup yang mengenalkan mahasiswa pada arsitektur basis data di luar model relasional tradisional untuk kebutuhan skala besar.Distributed Database: Penyimpanan basis data yang tersebar di beberapa lokasi fisik namun terhubung dalam satu jaringan.NoSQL Database: Basis data non-relasional yang dirancang untuk data tidak terstruktur dan skalabilitas besar. Terbagi menjadi Document Store (contoh: MongoDB), Key-Value Store (contoh: Redis), Column-Family, dan Graph Database.Data Warehouse &amp; Big Data: Pengenalan konsep penyimpanan data historis berskala besar untuk kebutuhan analisis (Business Intelligence) dan pengolahan data masif.</p>",
+      "tags": [
+        "tugas"
+      ],
+      "date": "2026-05-17T06:26:39.222Z",
+      "filename": "1778999199217_09379343761d03af711d8d7f9f8db539.jpg",
+      "imgUrl": "/uploads/1778999199217_09379343761d03af711d8d7f9f8db539.jpg"
+    },
+    {
+      "id": "m_1779036563602",
+      "title": "tes",
+      "notes": "",
+      "tags": [],
+      "date": "2026-05-17T16:49:23.602Z",
+      "filename": null,
+      "imgUrl": null
+    },
+    {
+      "id": "m_1779037160226",
+      "title": "tes lagi",
+      "notes": "",
+      "tags": [],
+      "date": "2026-05-17T16:59:20.227Z",
+      "filename": null,
+      "imgUrl": null
+    }
+  ]
+}

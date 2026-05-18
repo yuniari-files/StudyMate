@@ -1,0 +1,48 @@
+{
+  "id": "c_1778944217933",
+  "slug": "dasf",
+  "name": "dasf",
+  "code": "fsafas",
+  "emoji": "🧮",
+  "color": "linear-gradient(135deg,#6366f1,#818cf8)",
+  "createdAt": "2026-05-16T15:10:17.933Z",
+  "updatedAt": "2026-05-17T18:47:38.588Z",
+  "materials": [
+    {
+      "id": "m_1779040592262",
+      "title": "tes",
+      "notes": "<p>xdcfvghbnjkm</p><p>ppapa</p><p><br></p><p>tes lagi</p><p>final</p>",
+      "tags": [],
+      "date": "2026-05-17T17:56:32.263Z",
+      "filename": null,
+      "imgUrl": null
+    },
+    {
+      "id": "m_1779041335946",
+      "title": "bismillah",
+      "notes": "<p>tes lagi</p><p>plis bisa</p><p>fjhjgygungke</p>",
+      "tags": [],
+      "date": "2026-05-17T18:08:55.946Z",
+      "filename": null,
+      "imgUrl": null
+    },
+    {
+      "id": "m_1779042137689",
+      "title": "tes",
+      "notes": "<p>satu</p><p>dua tiga</p><p><br></p>",
+      "tags": [],
+      "date": "2026-05-17T18:22:17.689Z",
+      "filename": null,
+      "imgUrl": null
+    },
+    {
+      "id": "m_1779042411550",
+      "title": "tesssss",
+      "notes": "<p>satu</p><p>dua tiga empat lima enam tuju</p><p><br></p>",
+      "tags": [],
+      "date": "2026-05-17T18:26:51.550Z",
+      "filename": null,
+      "imgUrl": null
+    }
+  ]
+}
