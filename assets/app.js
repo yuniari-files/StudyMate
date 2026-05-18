@@ -7,7 +7,7 @@
 // KONFIGURASI & STATE
 // ════════════════════════════════════════════════════════════
 // KODE BARU:
-const API = `http://${window.location.hostname}:6767/api`;
+const API = window.location.origin + '/api';
 
 const state = {
   courses:        [],   // [{id, slug, name, code, emoji, color, materialCount, updatedAt}]
